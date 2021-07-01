@@ -1,0 +1,43 @@
+{
+    "prefix": ".",
+    "sahip": "361562351415066624",
+    "token": "TOKEN",
+    "ses": "BOTUN GİRECEĞİ SES KANAL ID",
+
+    "tag": "*",
+    "yetkili": "",
+    "guildID": "818900821961343016",
+  
+    "tagges": "835851102338547733",
+    "unregister": "",
+    "unregister2": "",
+    "şüpheli": "835851102364762118",
+    "jail": "835851102364762118",
+    "yasaklı": "YASAKLI TAGDA BULUNANLARA VERİLECEK ROL ID",
+  
+    "erkek": "841306847600050213",
+    "erkek2": "835851102322294826",
+    "erkek3": "835851102322294825",
+  
+    "kadın": "841306847600050213",
+    "kadın2": "835851102322294828",
+    "kadın3": "835851102322294827",
+    
+    "chat": "835851103258148911",
+    "welcome": "832268442790395974",
+    "nicklog": "846356758901686302",
+    "rules": "835851102813028363",
+    "taglog": "835851104876232704",
+    "invites": "832268442790395974",
+  
+    "yes": "",
+    "no": "",
+    "yildiz": "",
+    "dikkat": "",
+    "sag": "",
+    "kitap": "",
+    "coin": "",
+
+    "footer": "allien development",
+    "ready": "developed by 'allien"
+}

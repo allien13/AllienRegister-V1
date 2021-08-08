@@ -7,4 +7,4 @@
 
 # Hata var ve nasıl düzelteceğim?
 
-• Discord'dan ulaşabilirsiniz: 'allien#0242
+• Discord'dan ulaşabilirsiniz: 'allien ග#1950
